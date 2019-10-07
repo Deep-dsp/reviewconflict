@@ -1,3 +1,3 @@
 # reviewconflict
 
-This is GLOBALL MODIFIED file.
+This is Locally Modified Data.
